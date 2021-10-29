@@ -1,9 +1,9 @@
-# --BINARY--
-[![Go Report Card](https://goreportcard.com/badge/github.com/--REPOOWNER--/--REPONAME--)](https://goreportcard.com/badge/github.com/--REPOOWNER--/--REPONAME--)
-[![Release](https://img.shields.io/github/release/--REPOOWNER--/--REPONAME--.svg?style=flat-square)](https://github.com/--REPOOWNER--/--REPONAME--/releases/latest)
-[![Coverage Status](https://coveralls.io/repos/github/--REPOOWNER--/--REPONAME--/badge.svg?branch=main)](https://coveralls.io/github/--REPOOWNER--/--REPONAME--?branch=main)
+# ghfindfile
+[![Go Report Card](https://goreportcard.com/badge/github.com/Jmainguy/ghfindfile)](https://goreportcard.com/badge/github.com/Jmainguy/ghfindfile)
+[![Release](https://img.shields.io/github/release/Jmainguy/ghfindfile.svg?style=flat-square)](https://github.com/Jmainguy/ghfindfile/releases/latest)
+[![Coverage Status](https://coveralls.io/repos/github/Jmainguy/ghfindfile/badge.svg?branch=main)](https://coveralls.io/github/Jmainguy/ghfindfile?branch=main)
 
---DESCRIPTION--
+A golang tool to see if a github repo contains a file
 
 ## Usage
 ```/bin/bash
@@ -11,14 +11,14 @@
 ```
 
 ## PreBuilt Binaries
-Grab Binaries from [The Releases Page](https://github.com/--REPOOWNER--/--REPONAME--/releases)
+Grab Binaries from [The Releases Page](https://github.com/Jmainguy/ghfindfile/releases)
 
 ## Install
 
 ### Homebrew
 
 ```/bin/bash
-brew install --REPOOWNER--/tap/--BINARY--
+brew install Jmainguy/tap/ghfindfile
 ```
 
 ## Build
